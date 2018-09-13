@@ -1,5 +1,4 @@
 
-package com.odianyun.back.wechat;
 
 import java.security.MessageDigest;
 import java.security.NoSuchAlgorithmException;
