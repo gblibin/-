@@ -1,5 +1,4 @@
 
-package com.odianyun.back.wechat;
 
 import org.dom4j.Document;
 import org.dom4j.Element;
