@@ -4,7 +4,7 @@
  * 文件名：MessageUtil
  * 模块说明：
  * 修改历史：
- * 2017/5/5 - zhaolingling - 创建
+ * 2017/5/5 - libin - 创建
  */
 package com.odianyun.back.wechat;
 
